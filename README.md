@@ -1,1 +1,1 @@
-# GezginRotas-_BlogProjesi
+# GezginRotasi_BlogProjesi
